@@ -14,10 +14,9 @@ const createNav = () => {
             </div>
         </div>
         <ul class="links-container">
-            <li class="link-item"><a href="#" class="link">About Anchor Apparel</a></li>
-            <li class="link-item"><a href="#" class="link">Gallery</a></li>
-            <li class="link-item"><a href="#" class="link">Shirt #1</a></li>
-            <li class="link-item"><a href="#" class="link">Shirt #2</a></li>
+            <li class="link-item"><a href="index.html#" class="link">About Anchor Apparel</a></li>
+            <li class="link-item"><a href="gallery.html#" class="link">Gallery</a></li>
+            <li class="link-item"><a href="product.html#" class="link">Shirt #1</a></li>
         </ul>
     `;
 }
